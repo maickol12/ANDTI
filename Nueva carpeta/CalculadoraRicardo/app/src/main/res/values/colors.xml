@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Label colors-->
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#FAFAFA</color>
+
+    <!--Button colors-->
+    <color name="red">#FF4338</color>
+    <color name="dark_red">#FF2C1E</color>
+    <color name="green">#00B550</color>
+    <color name="dark_green">#0C9C4D</color>
+    <color name="orange">#FFA400</color>
+    <color name="dark_orange">#F3A007</color>
+    <color name="blue">#40B4E5</color>
+    <color name="dark_blue">#1EA6E1</color>
+    <color name="purple">#CB8BDA</color>
+    <color name="dark_purple">#C67BD7</color>
+    <color name="crimson">#DD0031</color>
+    <color name="dark_crimson">#c9002e</color>
+    <color name="d_orange">#FF6B00</color>
+    <color name="d_dark_orange">#d75c00</color>
+</resources>

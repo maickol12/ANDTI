@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="name">calculadora</string>
+    <string name="clear">para limpar</string>
+    <string name="about">sobre</string>
+</resources>

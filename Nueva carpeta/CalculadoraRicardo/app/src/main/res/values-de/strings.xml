@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rechner</string>
+    <string name="name">rechner</string>
+    <string name="clear">reinigen</string>
+    <string name="about">über</string>
+
+</resources>
